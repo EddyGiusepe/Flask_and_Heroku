@@ -1,0 +1,4 @@
+Flask
+flask-cors # Para que nos permita conexão com  a Internet
+gunicorn 
+
