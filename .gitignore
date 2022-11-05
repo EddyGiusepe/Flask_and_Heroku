@@ -131,4 +131,9 @@ dmypy.json
 
 # Eddy
 eddy_venv/
+model.zip
+model.pth
+UCMerced_LandUse.zip
+dataset/
+
 
